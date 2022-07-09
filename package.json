@@ -1,0 +1,24 @@
+{
+  "name": "training-shop",
+  "version": "1.0.0",
+  "description": "JS + react training",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhagnere/Training-Shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhagnere/Training-Shop/issues"
+  },
+  "homepage": "https://github.com/dhagnere/Training-Shop#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
